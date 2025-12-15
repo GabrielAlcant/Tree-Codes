@@ -1,3 +1,9 @@
+"""
+Alunos:
+Gabriel Ribeiro de Alcântara
+Ana Beatriz da Silva Serra
+"""
+
 import sys
 
 # --- Configurações de Cores para o Terminal (Opcional, funciona em terminais ANSI) ---
